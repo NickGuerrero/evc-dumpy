@@ -1,0 +1,9 @@
+This list can be added to. Please be reasonable with your requests.
+1)Be respectful of others and bee civil in all discussions. We don't want to 
+create a toxic environment.
+2)Avoid slang and profanity. It's fine to joke around every now and then, but do
+note that we have group chats for things like that.
+3)This is not a place to post solutions to homework. While all of us are likely
+experienced enough in code to do the work easily, this is still a class, and we
+are expected to do all the work. This repo will likely contain extra stuff anyway.
+4)Try to keep everything organized.
